@@ -19,46 +19,51 @@ It includes:
 - 🏗️ Projects
 - 📝 Daily Notes
 - 🧪 Practice Programs
-- Introduction to Python
-- Python Tokens
-- Data Types
-- Sequence Types
-- Operators
-- Input & Output
+
+
+# 📚 Learning Roadmap :-
+- Introduction to Programming & Python
+- Tokens, Statements, Identifiers, Comments & Keywords
+- Data Types & Type Conversions
+- Operators, Input & Output Formatting
 - Strings
 - Lists & Tuples
 - Sets & Dictionaries
 - Conditional Statements
-- Loops
+- for & while Loops
+- Loop Control Statements
+- Nested Loops & Pattern Programs
+- Functions & Arguments
 - Variable Scope & Argument Passing
 - Recursive Functions
 - Lambda Functions
-- Comprehensions & Generators
-- Modules
+- List Comprehensions & Generators
+- Modules & User-Defined Modules
 - Built-in Modules
 - Date & Time
-- File Handling
+- File Handling & Directory Operations
 - Exception Handling
-– Email Automation Project
-– Voice Assistant Project
-– Object-Oriented Programming
-– Classes & Objects
-– Constructors & `self`
-– Encapsulation
-– Inheritance
-– Polymorphism
-– Abstraction
-– University Management System
-– Regular Expressions
-– Data Analysis Introduction
-– NumPy & pandas
-– Matplotlib & Web Scraping
+- Email Automation Project
+- Voice Assistant Project
+- Object-Oriented Programming
+- Classes, Objects, Attributes & Methods
+- Constructors & `self`
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- University Management System Project
+- Regular Expressions & Form Validation
+- Introduction to Data Analysis
+- NumPy
+- pandas
+- Matplotlib & Data Visualisation
+- Web Scraping
+
 
 I am maintaining this repository to track my progress, strengthen my fundamentals, and build practical development skills through consistent coding.
 
 ---
-
-# 📚 Learning Roadmap
 
 # 🐍 Python – 35 Day Learning Journey
 
