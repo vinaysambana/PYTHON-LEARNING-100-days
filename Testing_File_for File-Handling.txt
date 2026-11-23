@@ -1,2 +1,1 @@
-Hello World ! WELCOME to Python Full Stack at "CODEGNAN"
-"PFS-VSP-007" batch Python Trainer is "SAKETH KALEPU SIR"(Co-Founder)
+Testing phase
